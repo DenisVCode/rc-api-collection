@@ -1,0 +1,26 @@
+_id: req_f7a3609943dc4582910a767f4d93fa1c
+type: Request
+parentId: wrk_f2937074f9664b53bf073e7825742115
+modified: 1694518451900
+created: 1694518173610
+url: https://ops-onboardingestimate-nc5y4hm4qq-uc.a.run.app/
+name: Estimate onboarding queue
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: token
+    value: "{{ _.apiKeyDecoderOnboarding }}"
+    id: pair_7809dcac71ba4206b3973086dd8d9d35
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1694518173610
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

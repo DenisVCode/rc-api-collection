@@ -1,0 +1,14 @@
+_id: env_2b3f958aeda7da4c708f635d516a785b1abd99c6
+type: Environment
+parentId: wrk_f2937074f9664b53bf073e7825742115
+modified: 1694518449288
+created: 1694518008749
+name: Base Environment
+data:
+  apiKeyDecoderOnboarding: AIGJEGANJEGNEUIGOUEAJGOAGJNBNBkXIO
+dataPropertyOrder:
+  "&":
+    - apiKeyDecoderOnboarding
+color: null
+isPrivate: false
+metaSortKey: 1694518008749
